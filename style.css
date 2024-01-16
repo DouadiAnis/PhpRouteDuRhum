@@ -1,0 +1,237 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif ;
+}
+
+
+
+
+.logo{
+	 text-decoration: none;
+	 color: #fff;
+	 font-size: 30px;
+	 font-weight: bold;
+	 padding-top: 10px;
+	 padding-left: 10%;
+}
+
+.accueil{
+	text-align: center;
+	background: #11324D;
+	padding: 10px 30px;
+	border-bottom-left-radius: 18px;	background: #11324D;
+}
+
+.accueil ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px 25px;
+
+}
+
+.accueil ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+
+.row{
+	padding: 0 10%;
+
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	position: relative;
+	margin-top: 5%;
+	margin: 0;
+	border: 0;
+}
+
+
+.left-col{
+	flex-basis: 4024px;
+}
+
+.right-col{
+	flex-basis: 55%;
+}
+
+.image{
+  background-image: url("route_du_rhum.png");
+  background-size: cover;
+  background-position: center;
+  height: 130px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+
+
+.right-col h1{
+	font-size: 55px;
+	font-weight: 600;
+  text-align: center
+}
+
+.accueil h2{
+  font-size: 55px;
+  font-weight: 600;
+  text-align: center;
+	  color: white;
+}
+
+
+.right-col p{
+	color: #777;
+	margin: 20px 0 70px;
+}
+h4.participants{
+	display: flex;
+	margin-top: 30px;
+}
+
+
+
+
+
+.participants {
+  background-color: #11324D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.icon, .icon2, .icon3 {
+  background-color: #f2f2f2;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #333;
+}
+
+.icon:hover, .icon2:hover, .icon3:hover {
+  background-color: #333;
+  color: white;
+}
+
+.icon a, .icon2 a, .icon3 a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.head1 {
+
+    font-size: 35px;
+	  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  	color: black ;
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 40px
+}
+
+
+
+.presentation{
+    display: flex;
+    font-size: 18px;
+    text-align: justify;
+    margin: 2% 5% 0 7%;
+
+    padding-bottom: 50px;
+    border : 3px solid black;
+    padding :  10px;
+    font-style: italic;
+
+
+
+}
+.footer {
+  background-color: white;
+  color: #fff;
+  padding: 20px;
+}
+h2{
+    font-size: 25px;
+      color: white;
+}
+
+.alerte{
+    color: red ; <div class="footer">;
+    <div class="participants">;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top:50px;
+    margin-bottom: 100px;
+    padding: 5px;
+    font-size: 0.9em;
+    font-family: sans-serif;
+
+    box-shadow: 0 0 20px rgb(0, 0, 0, 0.15);
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    padding: 30px;
+
+}
+
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+
+}
+
+thead tr {
+    background-color: #4b4276;
+    color: #ffffff;
+    text-align: center;
+}
+
+tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+
+}
+
+tbody tr:nth-of-type(even) {
+    background-color:WHITE;<div clBateauxass="footer">;
+    <div class="participants">  <div class="footer">
+    <div class="participants"> #f3f3f3;
+}
+tbody tr td {
+  text-align: center;
+}
+input{
+  display:inline-block;
+  margin-bottom: 10px;
+        margin-right:2px;
+        padding: 10px 25px;
+        background: none;
+        border:1px solid #c0c0c0;
+        border-radius:2px;
+        color: #666;
+        font-size:1.125em;
+        outline:none;
+        transition: all 100ms ease-out;
+}
+
+
